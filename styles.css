@@ -2,15 +2,15 @@ body{
 	background:#333333 url(images/page-bg.jpg);
 	margin:0px;
 	font: 400 16px/26px 'Open Sans', Verdana, Helvetica, sans-serif;
-	color:#6a6969;
+	color:#D2D2D2;
 }
-h1{font: 400 60px/62px 'Bree Serif', Georgia, serif; color:#6a6969;}
-h2{font: 400 40px/44px 'Bree Serif', Georgia, serif; color:#6a6969;}
-h3{font: 400 18px/20px 'Bree Serif', Georgia, serif; color:#6a6969;}
-h4{font: 400 28px/30px 'Bree Serif', Georgia, serif; color:#6a6969;}
+h1{font: 400 60px/62px 'Bree Serif', Georgia, serif; color:#D2D2D2;}
+h2{font: 400 40px/44px 'Bree Serif', Georgia, serif; color:#D2D2D2;}
+h3{font: 400 18px/20px 'Bree Serif', Georgia, serif; color:#D2D2D2;}
+h4{font: 400 28px/30px 'Bree Serif', Georgia, serif; color:#D2D2D2;}
 
 ul{margin:0px; padding:0px;}
-a {text-decoration:none; color:#6a6969;}
+a {text-decoration:none; color:#D2D2D2;}
 a:hover {color:#979797;}
 a img{border:0px;}
 
@@ -28,7 +28,7 @@ a img{border:0px;}
 
 #header{
 	width:864px;
-	height:115px;
+	height:30px;
 	background-color:#222222;
 	padding:0px 43px;
 	position: fixed;
@@ -40,7 +40,7 @@ a img{border:0px;}
 	padding-top:40px;
 	float:left;
 }
-#header #main-menu{float:right; padding-top:45px;}
+#header #main-menu{float:right; padding-top:5px;}
 #header #main-menu li{
 	float:left;
 	list-style:none;
