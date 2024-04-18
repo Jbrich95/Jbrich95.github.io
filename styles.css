@@ -28,7 +28,7 @@ a img{border:0px;}
 
 #header{
 	width:864px;
-	height:30px;
+	height:60px;
 	background-color:#222222;
 	padding:0px 43px;
 	position: fixed;
@@ -37,10 +37,10 @@ a img{border:0px;}
 	margin: 0 0 0 -475px;
 }
 #header #logo{
-	padding-top:40px;
+	padding-top:4px;
 	float:left;
 }
-#header #main-menu{float:right; padding-top:5px;}
+#header #main-menu{float:right; padding-top:10px;}
 #header #main-menu li{
 	float:left;
 	list-style:none;
@@ -52,7 +52,7 @@ a img{border:0px;}
 /* ABOUT SECTION */
 /****************************************************/
 
-#about{margin:0px 43px; padding-top:115px;}
+#about{margin:0px 43px; padding-top:10px;}
 #about h1{float:left;}
 #about #top-social{float:right; padding-top:62px;}
 #about #top-social li{float:left; list-style:none; margin-left:10px;}
@@ -105,7 +105,7 @@ a img{border:0px;}
 /* Education SECTION */
 /****************************************************/
 
-#education{margin:0px 43px; padding-top:115px;}
+#education{margin:0px 43px; padding-top:10px;}
 #education .col{
 	width:235px;
 	float:left;
@@ -118,7 +118,7 @@ a img{border:0px;}
 /* Research SECTION */
 /****************************************************/
 
-#research{margin:0px 43px; padding-top:115px;}
+#research{margin:0px 43px; padding-top:10px;}
 #research .col{
 	width:235px;
 	float:left;
@@ -131,7 +131,7 @@ a img{border:0px;}
 /* Pub SECTION */
 /****************************************************/
 
-#publications{margin:0px 43px; padding-top:115px;}
+#publications{margin:0px 43px; padding-top:10px;}
 #publications .col{
 	width:235px;
 	float:left;
@@ -143,7 +143,7 @@ a img{border:0px;}
 /* Software SECTION */
 /****************************************************/
 
-#software{margin:0px 43px; padding-top:115px;}
+#software{margin:0px 43px; padding-top:10px;}
 #software .col{
 	width:235px;
 	float:left;
@@ -154,10 +154,10 @@ a img{border:0px;}
 /****************************************************/
 /* Contact SECTION */
 /****************************************************/
-#connect{margin:0px 43px; padding-top:115px;}
+#connect{margin:0px 43px; padding-top:10px;}
 #connect .content{overflow:auto;}
 #connect #form{
-	width:410px;
+	width:450px;
 	float:left;
 }
 #connect #form span{
