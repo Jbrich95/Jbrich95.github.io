@@ -9,6 +9,10 @@ h2{font: 400 40px/44px 'Bree Serif', Georgia, serif; color:#D2D2D2;}
 h3{font: 400 18px/20px 'Bree Serif', Georgia, serif; color:#D2D2D2;}
 h4{font: 400 28px/30px 'Bree Serif', Georgia, serif; color:#D2D2D2;}
 
+li:not(:last-child) {
+    margin-bottom: 5px;
+}
+
 ul{margin:0px; padding:0px;}
 a {text-decoration:none; color:#D2D2D2;}
 a:hover {color:#979797;}
