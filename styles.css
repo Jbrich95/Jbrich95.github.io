@@ -132,6 +132,18 @@ a img{border:0px;}
 
 /****************************************************/
 
+/* Updates SECTION */
+/****************************************************/
+
+#updates{margin:0px 43px; padding-top:10px;}
+#updates .col{
+	width:235px;
+	float:left;
+}
+#updates .content{overflow:auto;}
+#updates .col-mid{margin:0px 65px;}
+/****************************************************/
+
 /* Pub SECTION */
 /****************************************************/
 
