@@ -171,76 +171,12 @@ a img{border:0px;}
 /* Contact SECTION */
 /****************************************************/
 #connect{margin:0px 43px; padding-top:10px;}
+#connect .col{
+	width:235px;
+	float:left;
+}
 #connect .content{overflow:auto;}
-#connect #form{
-	width:450px;
-	float:left;
-}
-#connect #form span{
-	display:block;
-	float:left;
-	width:100px;
-	padding-top:5px;
-	font: 400 20px/22px 'Bree Serif', Georgia, serif;
-}
-#connect #form input{
-	float:left;
-	width:255px;
-	border:0px;
-	color:#3b3b3b;
-	padding:10px 10px 10px 30px;
-	font: 400 11px/20px 'Open Sans', Verdana, Helvetica, sans-serif;
-	margin-bottom:10px;
-}
-#connect #form textarea{
-	float:left;
-	border:0px;
-	width:255px;
-	height:100px;
-	padding:10px 10px 10px 30px;
-	font: 400 11px/20px 'Open Sans', Verdana, Helvetica, sans-serif;
-	color:#3b3b3b;
-}
-
-#connect #form input.name{background:#222222 url(images/icon-user.png) no-repeat 10px 8px;}
-#connect #form input.email{background:#222222 url(images/icon-mail.png) no-repeat 10px 9px;}
-#connect #form textarea.message{background:#222222 url(images/icon-message.png) no-repeat 10px 8px;}
-#connect #form input.Message{ 
-	width:75px;   
-	height:30px;
-	float:right;
-	padding:0px 0px 5px 0px;
-	margin:10px 16px 0px 0px;
-	background:#222222;
-	color:#3b3b3b;
-	font: 400 14px/16px 'Bree Serif', Georgia, serif;
-}
-
-#connect #social-footer{
-	width:300px;
-	float:left;
-	margin-left:75px;
-}
-#connect #social-footer #sm-links{margin-top:25px;}
-#connect #social-footer #sm-links li{
-	list-style:none;
-	float:left;
-}
-#connect #social-footer #sm-links li a{
-	display:block;
-	text-indent:-9999px;
-	width:26px; 
-	height:26px;
-	margin-right:10px;
-}
-#connect #social-footer #sm-links li a.github{background:url(images/sm-github-icon.png) no-repeat;}
-#connect #social-footer #sm-links li a.facebook{background:url(images/sm-facebook-icon.png) no-repeat;}
-#connect #social-footer #sm-links li a.twitter{background:url(images/sm-twitter-icon.png) no-repeat; width:31px;}
-#connect #social-footer #sm-links li a.dribble{background:url(images/sm-dribble-icon.png) no-repeat;}
-#connect #social-footer #sm-links li a.vimeo{background:url(images/sm-vimeo-icon.png) no-repeat; width:27px;}
-#connect #social-footer #sm-links li a.google{background:url(images/sm-google-icon.png) no-repeat;}
-#connect #social-footer #sm-links li a.youtube{background:url(images/sm-youtube-icon.png) no-repeat; width:28px;}
-#connect #social-footer #sm-links li a.linkedin{background:url(images/sm-linkedin-icon.png) no-repeat;}
+#connect .col-mid{margin:0px 65px;}
 
 /****************************************************/
 /* MISC */
