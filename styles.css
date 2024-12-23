@@ -1,12 +1,12 @@
 body{
 	background:#333333 url(images/page-bg.jpg);
 	margin:0px;
-	font: 400 16px/26px 'Open Sans', Verdana, Helvetica, sans-serif;
+	font: 400 18px/28px 'Open Sans', Verdana, Helvetica, sans-serif;
 	color:#D2D2D2;
 }
 h1{font: 400 60px/62px 'Bree Serif', Georgia, serif; color:#D2D2D2;}
-h2{font: 400 40px/44px 'Bree Serif', Georgia, serif; color:#D2D2D2;}
-h3{font: 400 18px/20px 'Bree Serif', Georgia, serif; color:#D2D2D2;}
+h2{font: 400 36px/40px 'Bree Serif', Georgia, serif; color:#D2D2D2;}
+h3{font: 400 17px/19px 'Bree Serif', Georgia, serif; color:#D2D2D2;}
 h4{font: 400 28px/30px 'Bree Serif', Georgia, serif; color:#D2D2D2;}
 
 li:not(:last-child) {
@@ -49,14 +49,14 @@ a img{border:0px;}
 	float:left;
 	list-style:none;
 	margin-left:27px;
-	font: 400 22px/24px 'Bree Serif', Georgia, serif;
+	font: 400 40px/44px 'Bree Serif', Georgia, serif;
 }
 
 /****************************************************/
 /* ABOUT SECTION */
 /****************************************************/
 
-#about{margin:0px 43px; padding-top:10px;}
+#about{margin:0px 43px; padding-top:20px;}
 #about h1{float:left;}
 #about #top-social{float:right; padding-top:62px;}
 #about #top-social li{float:left; list-style:none; margin-left:10px;}
