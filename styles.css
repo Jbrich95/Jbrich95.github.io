@@ -18,6 +18,7 @@ a {text-decoration:none; color:#D2D2D2;}
 a:hover {color:#979797;}
 a img{border:0px;}
 
+
 #container{
 	width:950px;
 	margin:0px auto 300px auto;
@@ -127,7 +128,10 @@ a img{border:0px;}
 	width:235px;
 	float:left;
 }
-#research .content{overflow:auto;}
+#research .content{overflow:auto;  ul, ol, dd {
+        margin-left: 20px;
+        margin-right: 20px;
+    }}
 #research .content img{float:left; margin-right:40px; border:5px solid #222222;}
 
 #research .col-mid{margin:0px 65px;}
@@ -142,7 +146,10 @@ a img{border:0px;}
 	width:235px;
 	float:left;
 }
-#updates .content{overflow:auto;}
+#updates .content{overflow:auto; ul, ol, dd {
+        margin-left: 20px;
+        margin-right: 20px;
+    }}
 #updates .col-mid{margin:0px 65px;}
 /****************************************************/
 
