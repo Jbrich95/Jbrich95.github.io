@@ -129,7 +129,7 @@ a img{border:0px;}
 	float:left;
 }
 #research .content{overflow:auto;  ul, ol, dd {
-        margin-left: 20px;
+        margin-left: 25px;
         margin-right: 20px;
     }}
 #research .content img{float:left; margin-right:40px; border:5px solid #222222;}
@@ -147,7 +147,7 @@ a img{border:0px;}
 	float:left;
 }
 #updates .content{overflow:auto; ul, ol, dd {
-        margin-left: 20px;
+        margin-left: 25px;
         margin-right: 20px;
     }}
 #updates .col-mid{margin:0px 65px;}
